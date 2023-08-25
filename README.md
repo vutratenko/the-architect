@@ -1,2 +1,2 @@
-# the-architect
-A dynamic test environments service
+# The Architect
+A dynamic test environments service for k8s
